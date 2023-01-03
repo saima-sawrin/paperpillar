@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+
+  font-size: 16px;
 }
 
 .App-logo {
@@ -27,6 +29,12 @@
 .App-link {
   color: #61dafb;
 }
+.header-container{
+  background: linear-gradient(to top right,#450b7c,#563cc9,#49e9fb);
+}
+
+
+
 
 @keyframes App-logo-spin {
   from {
